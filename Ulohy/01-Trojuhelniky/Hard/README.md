@@ -1,3 +1,5 @@
+# Trojúhelníky 2
+
 Úkolem je vytvořit program, který bude porovnávat dvojice trojúhelníků. Úloha je rozšířením jednodušší varianty, umožňuje zadávat vstupní trojúhelníky buď pomocí souřadnic vrcholů nebo pomocí délek stran. Doporučujeme nejprve řešit úlohu jednodušší.
 
 V rovině jsou zadané 2 trojúhelníky. Každý trojúhelník je zadán buď pomocí trojice svých vrcholů, nebo pomocí délek svých stran:

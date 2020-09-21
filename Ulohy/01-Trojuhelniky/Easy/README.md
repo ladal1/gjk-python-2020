@@ -1,4 +1,4 @@
-# Trojúhelníky
+# Trojúhelníky 1
 
 Úkolem je vytvořit program, který bude porovnávat dvojice trojúhelníků.
 
